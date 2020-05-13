@@ -2,7 +2,7 @@
   # Good README generator
 
   ## Description
-  Create a command-line application that dynamically generates a README.md from a user's input.
+   Create a command-line application that dynamically generates a README.md from a user's input.
 
   ## Table of Contents
     * Installation

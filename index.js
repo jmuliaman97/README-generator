@@ -75,6 +75,7 @@ function init() {
         .userName(response.user)
         .then(({ data }) => {
           // use writeToFile function to overwrite the README.md page with the markdown which includes all data and response
+          // log data and response using rest operator to give the rest of value of data and response
           writeToFile('README.md', markdown({ ...data, ...response }))
         })
         .catch(err => console.log(err))
