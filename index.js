@@ -7,6 +7,7 @@ const markdown = require('./Develop/markdown.js')
 // import api from api.js
 const api = require('./Develop/api.js')
 
+// make an array of questions
 const questions = [
   'Username:',
   'Title:',
