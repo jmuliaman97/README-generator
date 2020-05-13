@@ -13,7 +13,7 @@
     * Questions
     
   ## Installation
-  git clone git clone https://github.com/jmuliaman97/README-generator.git
+  git clone https://github.com/jmuliaman97/README-generator.git
 
   ## Usage
   Open terminal and the application will be invoked with the following command: node index.js
@@ -25,10 +25,11 @@
   Pull requests are welcome
 
   ## Tests
-  Automated test for this project is unavailable. 
+  Automated test for this project is unavailable.
 
   ## Questions
   ![User Img](https://avatars2.githubusercontent.com/u/62527732?v=4)
+  
   Name: Jordan Muliaman
   Email: null
   
