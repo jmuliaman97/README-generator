@@ -2,15 +2,15 @@
   # Good README generator
 
   ## Description
-   Create a command-line application that dynamically generates a README.md from a user's input.
+  Create a command-line application that dynamically generates a README.md from a user's input.
 
   ## Table of Contents
-    * Installation
-    * Usage
-    * License
-    * Contributing
-    * Test
-    * Questions
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [License](#license)
+    * [Contributing](#contributing)
+    * [Tests](#tests)
+    * [Questions](#questions)
     
   ## Installation
   git clone https://github.com/jmuliaman97/README-generator.git
