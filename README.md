@@ -5,12 +5,12 @@
   Create a command-line application that dynamically generates a README.md from a user's input.
 
   ## Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
     
   ## Installation
   git clone https://github.com/jmuliaman97/README-generator.git
@@ -25,7 +25,7 @@
   Pull requests are welcome
 
   ## Tests
-  Automated test for this project is unavailable.
+  Automated test for this project is unavailable
 
   ## Questions
   ![User Img](https://avatars2.githubusercontent.com/u/62527732?v=4)
